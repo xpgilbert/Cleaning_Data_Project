@@ -29,7 +29,7 @@ The scripts are:
 Each script includes comments at each section to describe what is going on in greater detail.  
 Note that most scripts include code to move the working directory down a level into the "./data/"
 folder and then moves it back up to the original wd.  This is because the scripts are all located in 
-the main wd and the run_it.R script needs the wd to be the larger folder.
+the main wd and the run_analysis.R script needs the wd to be the parent folder.
 
 The code book for this assignment is include in the github repo.  I have also included the original codebook
 to clarify any questions about the variable names and their descriptions.
