@@ -5,7 +5,7 @@ Denver, CO
 09/17/20
 
 This readme explains the process of going from the fileURL to the 
-tidy data set tidy_data.csv
+tidy data set average_data.txt
 
 I used multiple scripts for this assignment that are all executed by the 
 R-script "run_analysis.R"
